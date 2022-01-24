@@ -1,0 +1,6 @@
+framework module DLib {
+  umbrella header "DLib.h"
+
+  export *
+  module * { export * }
+}

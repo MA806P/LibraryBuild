@@ -1,0 +1,6 @@
+framework module CLib {
+  umbrella header "CLib.h"
+
+  export *
+  module * { export * }
+}

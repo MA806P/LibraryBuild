@@ -1,0 +1,6 @@
+framework module BLib {
+  umbrella header "BLib.h"
+
+  export *
+  module * { export * }
+}
